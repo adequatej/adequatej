@@ -9,7 +9,7 @@
 
 </div>
 
-Hi! I'm Jed, a Computer Science and Data Science student at WPI, exploring the intersection of software engineering, full-stack development, and AI/ML. Currently transitioning from a cybersecurity background to building impactful, user-focused tech.
+Hi! I'm Jed, a Computer Science and Data Science student at WPI, exploring the intersection of software engineering, full-stack development, and AI/ML.
 
 ### 🛠 Most Used Tools
 
