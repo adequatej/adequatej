@@ -10,10 +10,11 @@
 
 </div>
 
-- 🎓 M.S. Computer Science @ Georgia Tech
-- 📫 Reach me: [jedgeoghegan@gmail.com](mailto:jedgeoghegan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jed-geoghegan/)
+- I love building, iterating fast, and shipping quick. 
+- M.S. Computer Science @ Georgia Tech
+- Reach me: [jedgeoghegan@gmail.com](mailto:jedgeoghegan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jed-geoghegan/)
 
-### 🛠 Technical Skills
+### Technical Skills
 
 <div align="center">
 
