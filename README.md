@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Agentic%20AI-6E56CF?style=for-the-badge" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge" alt="MCP" />
 
-  **Frameworks & Backend**
+  **Frameworks**
 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -77,14 +77,5 @@
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adequatej&theme=default" alt="Jed's GitHub stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adequatej&theme=default" alt="Top languages" height="180" />
 
 </div>
