@@ -10,10 +10,7 @@
 
 </div>
 
-I'm a CS graduate student at Georgia Tech (B.S. Computer Science & Data Science, WPI). I build full-stack products with an applied AI focus — LLM-powered features, ML pipelines, and the web apps around them — with a background in cybersecurity that shapes how I think about building reliable, secure software.
-
 - 🎓 M.S. Computer Science @ Georgia Tech
-- 🔭 Currently building: full-stack and AI-powered projects — see my [portfolio](https://jedgeoghegan.com/)
 - 📫 Reach me: [jedgeoghegan@gmail.com](mailto:jedgeoghegan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jed-geoghegan/)
 
 ### 🛠 Tools I Use
